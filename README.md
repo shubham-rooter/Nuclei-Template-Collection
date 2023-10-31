@@ -19,7 +19,7 @@ To clone this repository and use the provided Python script to clone the templat
 1. Clone the repository using Git:
 
 ```
-git clone https://github.com/shubham-rooter/Nuclei-Template-Collection-.git
+git clone https://github.com/shubham-rooter/Nuclei-Template-Collection.git
 ```
 ```
 cd Nuclei-Template-Collection-
